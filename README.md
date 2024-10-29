@@ -3,7 +3,7 @@
 <h2 align="Right">"Работаю с утками"</h2>
 <img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGh3ZHN3eXR4YXp3bzVsZWtxaWZqemJzeHRxZmJqZDR2cHc3bnVvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
 
- <h2><li>.Обо мне : </li></h2> 
+ <li>Обо мне : </li>
 
 <li>🚀 Привет! меня зовут Ершов Артем. Я Manual QA Engineer</li>
 <li>⚡ Прошел курс по функциональному тестированию Артема Русова</li>
