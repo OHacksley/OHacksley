@@ -1,10 +1,10 @@
 <h2 align="left">There's an old saying. You can have it fast. You can have it good. You can have it cheap. Pick two.</h2>
 
-<h2 align="Right">"Работаю с утками"</h2>
+<h2 align="Right">"Работаю <del>сутками</del> с утками"</h2>
 <img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGh3ZHN3eXR4YXp3bzVsZWtxaWZqemJzeHRxZmJqZDR2cHc3bnVvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
 
  <h3><li>Обо мне : </li></h3>
-<br></br>
+
 <h4><li>🚀   Привет! меня зовут Ершов Артем. Я Manual QA Engineer</li>
 <br></br>
 <li>⚡   Прошел курс <a href="https://drive.google.com/drive/folders/1ntWJMexB9aKvyP7HHmDrdoF_PpmfKEnm"> Функциональное тестирование ПО. Пакет Junior+</a> Артема Русова</li>
