@@ -16,7 +16,7 @@
 <li>📖   Изучаю ЯП Java на платформе JavaRush</li></h4>
 
 
-<h3><li>   Мое <a href="https://github.com/OHacksley/Resume/blob/main/%D0%95%D1%80%D1%88%D0%BE%D0%B2%20%D0%90%D1%80%D1%82%D0%B5%D0%BC%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.pdf">резюме</a></li> </h3>
+<h3><li>   Мое <a href="https://github.com/OHacksley/OHacksley/blob/main/%D0%95%D1%80%D1%88%D0%BE%D0%B2%20%D0%90%D1%80%D1%82%D0%B5%D0%BC%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20.pdf">резюме</a></li> </h3>
 
 ### 🤝 Социальные сети :
 
